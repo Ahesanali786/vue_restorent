@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "name": "hello",
+      "email": "he@gmail.com",
+      "password": "123",
+      "id": "5e50"
+    },
+    {
+      "id": "1289",
+      "name": "test",
+      "email": "te@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "be6f",
+      "name": "ahesan",
+      "email": "ahesanali@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "0788",
+      "name": "ahesan",
+      "email": "ahesanali@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": "0598",
+      "name": "Ullamco",
+      "email": "vutinub@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "3d50",
+      "name": "Sed",
+      "email": "xyzofoqy@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "fc67",
+      "name": "Non",
+      "email": "hetiru@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f1dc",
+      "name": "Adipisici",
+      "email": "typamonizy@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "17e5",
+      "name": "Autdisti",
+      "email": "zareqa@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "b800",
+      "name": "Quam",
+      "email": "zujel@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "ce9d",
+      "name": "Modi",
+      "email": "lojaso@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ],
+  "Restorent": [
+    {
+      "name": "road-cornar",
+      "address": "maktabah jafariya",
+      "contect": "3456789",
+      "id": "1"
+    },
+    {
+      "name": "Recusandae Ut",
+      "address": "Non voluptatem pari",
+      "contect": "Aute explicabo Qui",
+      "id": "2"
+    },
+    {
+      "id": "f3c3",
+      "name": "ahesanali",
+      "address": "husainpura",
+      "contect": "679038442472472"
+    },
+    {
+      "id": "fbf7",
+      "name": "Qui",
+      "address": "Ipsum nobis veniam",
+      "contect": "Neque eu unde enim m"
+    },
+    {
+      "id": "2f3c",
+      "name": "Laborum",
+      "address": "Consequat Soluta ea",
+      "contect": "Veniam tempore pla"
+    },
+    {
+      "id": "e837",
+      "name": "Odio",
+      "address": "Consequat Molestiae",
+      "contect": "Voluptas quia reicie"
+    }
+  ]
+}
