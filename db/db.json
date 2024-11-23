@@ -65,6 +65,12 @@
       "name": "Modi",
       "email": "lojaso@mailinator.com",
       "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1b39",
+      "name": "dhukka",
+      "email": "dhukko@gmail.com",
+      "password": "1234"
     }
   ],
   "Restorent": [
@@ -97,12 +103,6 @@
       "name": "Laborum",
       "address": "Consequat Soluta ea",
       "contect": "Veniam tempore pla"
-    },
-    {
-      "id": "e837",
-      "name": "Odio",
-      "address": "Consequat Molestiae",
-      "contect": "Voluptas quia reicie"
     }
   ]
 }
